@@ -1,0 +1,3 @@
+-keep class com.github.heywhy.flutter_pusher.** { *; }
+-keepattributes LineNumberTable,SourceFile
+-renamesourcefileattribute SourceFile
